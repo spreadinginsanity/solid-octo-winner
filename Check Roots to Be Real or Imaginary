@@ -2,7 +2,7 @@
 int main()
 {
   int a, b, c;
-  printf("Enter value of a b c as in Quadratic Equation a(X2)+b(X)+c");
+  printf("Enter value of a b c as in Quadratic Equation a(X2)+b(X)+c: ");
   scanf ("%d %d %d", &a, &b ,&c);
   if (b*b - 4*a*c < 0)
   {
